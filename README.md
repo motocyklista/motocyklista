@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @motocyklista
 - 👀 I’m interested in motorcycling, womens, computers
-- 🌱 I’m currently learning english and C#
+- 🌱 I’m currently learning english and C
 - 💞️ I’m looking to collaborate on change the digital world 
 - 📫 How to reach me - only github
 
